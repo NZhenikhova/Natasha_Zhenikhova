@@ -1,5 +1,5 @@
 # Dependency
-/node_modules
+node_modules
 
 #results
 results
@@ -8,3 +8,5 @@ results
 videos
 screenshots
 
+#faker
+faker 
